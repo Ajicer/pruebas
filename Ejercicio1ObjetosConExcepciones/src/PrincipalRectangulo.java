@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//hello there!
 public class PrincipalRectangulo {
 
 	private static Scanner teclado = new Scanner(System.in);
